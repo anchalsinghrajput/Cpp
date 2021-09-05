@@ -89,3 +89,40 @@ int main()
 
 
 }
+
+/*
+Enter n 7
+1 
+2 3 
+4 5 6 
+7 8 9 10 
+11 12 13 14 15 
+16 17 18 19 20 21 
+22 23 24 25 26 27 28 
+*/
+
+
+#include<iostream>
+using namespace std;
+int main()
+{
+
+    int n;
+    cout<<"Enter n ";
+    cin>>n;
+    int i=1,j,val = 1;
+    while(i<=n)
+    {
+        j=1;
+        while(j<=i)
+        {
+            cout<<val<<" ";
+            j++;
+            val++;
+        }
+        cout<<endl;
+        i++;
+    }
+
+    return 0;
+}
