@@ -126,3 +126,37 @@ int main()
 
     return 0;
 }
+
+/*
+Enter n 4
+ABCD
+ABCD
+ABCD
+ABCD
+*/
+
+#include<iostream>
+using namespace std;
+int main()
+{
+
+    int n;
+    cout<<"Enter n ";
+    cin>>n;
+    int i=1;
+    while(i<=n)
+    {
+        char a = 'A';  // we can also write it as ---->   char a = 65;      as 65 is asci value of A
+        int j=1;
+        while(j<=n)
+        {
+            cout<<a;
+            j++;
+            a++;
+        }
+        cout<<endl;
+        i++;
+    }
+
+    return 0;
+}
