@@ -442,4 +442,59 @@ int main()
   }
   return 0;   
 }
+/*
+Enter number of rows : 5
+    1
+   121
+  12321
+ 1234321
+123454321
 
+*/
+ /*
+      1 
+     12
+    123
+   1234
+  12345
+
+*/
+
+#include<iostream>
+using namespace std;
+int main()
+{
+  int n;
+  cout<<"Enter number of rows : ";
+  cin>>n;
+  cout<<endl;
+  int i=1;
+  while(i<=n)
+  {
+      int k = i;
+      while(k<=n-1)
+      {
+          cout<<" ";
+          k++;
+      }
+      
+      int j=1;
+      while(j<=i)
+      {
+          cout<<j;
+          j++;
+      }
+      
+       j=i-1;
+      while(j>=1)
+      {
+          cout<<j;
+          j--;
+      }
+
+      cout<<endl;
+      i++;
+     
+  }
+  return 0;   
+}
