@@ -329,3 +329,87 @@ int main()
     }
     return 0;
 }
+
+/*
+Enter number of rows : 5
+    *
+   **
+  ***
+ ****
+*****
+*/
+/*
+      1 
+     12
+    123
+   1234
+  12345
+
+*/
+
+#include<iostream>
+using namespace std;
+int main()
+{
+  int n;
+  cout<<"Enter number of rows : ";
+  cin>>n;
+  
+  int i=1;
+  while(i<=n)
+  {
+      int k = i;
+      while(k<=n-1)
+      {
+          cout<<" ";
+          k++;
+      }
+      int j=1;
+      while(j<=i)
+      {
+          cout<<"*";
+          j++;
+      }
+      cout<<endl;
+      i++;
+  }
+  return 0;   
+}
+/*
+      1 
+     12
+    123
+   1234
+  12345
+
+*/
+
+#include<iostream>
+using namespace std;
+int main()
+{
+  int n;
+  cout<<"Enter number of rows : ";
+  cin>>n;
+  
+  int i=1;
+  while(i<=n)
+  {
+      int k = i;
+      while(k<=n-1)
+      {
+          cout<<" ";
+          k++;
+      }
+      int j=1;
+      while(j<=i)
+      {
+          cout<<j;
+          j++;
+      }
+      cout<<endl;
+      i++;
+  }
+  return 0;   
+}
+
