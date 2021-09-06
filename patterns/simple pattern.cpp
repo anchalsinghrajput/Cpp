@@ -260,3 +260,72 @@ int main()
     }
     return 0;
 }
+
+/*
+A
+BC
+CDE
+DEFG
+EFGHI
+*/
+
+#include<iostream>
+using namespace std;
+int main()
+{
+
+    int n;
+    cout<<"Enter n ";
+    cin>>n;
+    int i=1;
+    while(i<=n)
+    {
+        int j=0;
+        char a = 'A'+(i-1);
+        while(j<i)
+        {
+            cout<<char(a+j);
+            j++;
+        }
+        
+        cout<<endl;
+        i++;
+    }
+    return 0;
+}
+
+/*
+H
+GH
+FGH
+EFGH
+DEFGH
+CDEFGH
+BCDEFGH
+ABCDEFGH
+*/
+
+#include<iostream>
+using namespace std;
+int main()
+{
+
+    int n;
+    cout<<"Enter n ";
+    cin>>n;
+    int i=1;
+    char a = 'H';
+    while(i<=n)
+    {
+        int j=0;
+        while(j<i)
+        {
+            cout<<char(a+j);
+            j++;
+        }
+        a--;
+        cout<<endl;
+        i++;
+    }
+    return 0;
+}
