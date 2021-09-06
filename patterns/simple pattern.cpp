@@ -193,3 +193,36 @@ int main()
 
     return 0;
 }
+
+/*
+1
+21
+321
+4321
+54321
+654321
+*/
+
+#include<iostream>
+using namespace std;
+int main()
+{
+
+    int n;
+    cout<<"Enter n ";
+    cin>>n;
+    int i=1;
+    while(i<=n)
+    {
+        int j=0;
+        while(j<i)
+        {
+            cout<<i-j;
+            j++;
+        }
+        
+        cout<<endl;
+        i++;
+    }
+    return 0;
+}
