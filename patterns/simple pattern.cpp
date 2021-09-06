@@ -226,3 +226,37 @@ int main()
     }
     return 0;
 }
+/*
+A
+BB
+CCC
+DDDD
+EEEEE
+FFFFFF
+GGGGGGG
+*/
+
+#include<iostream>
+using namespace std;
+int main()
+{
+
+    int n;
+    cout<<"Enter n ";
+    cin>>n;
+    int i=1;
+    while(i<=n)
+    {
+        int j=0;
+        char a = 'A'+(i-1);
+        while(j<i)
+        {
+            cout<<a;
+            j++;
+        }
+        
+        cout<<endl;
+        i++;
+    }
+    return 0;
+}
