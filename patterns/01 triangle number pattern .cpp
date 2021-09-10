@@ -39,3 +39,49 @@ int main()
     }
     return 0;
 }
+
+
+/*
+Enter n : 5
+    1    
+   212   
+  32123  
+ 4321234 
+543212345
+*/
+
+#include<iostream>
+using namespace std;
+int main()
+{
+    int i = 1,n;
+    cout<<"Enter n : ";
+    cin>>n;
+    while(i<=n)
+    {
+        int space=1;
+        while(space<=n-i)
+        {
+            cout<<" ";
+            space++;
+        }
+
+        int j=1;
+        while(j<=i)
+        {
+            cout<<i-j+1;
+            j++;
+        }
+        int k=1;
+        while(k<=i-1)
+        {
+            int x=2;
+            cout<<x+(k-1);
+            k++;
+        }
+
+        cout<<endl;
+        i++;
+    }
+    return 0;
+}
