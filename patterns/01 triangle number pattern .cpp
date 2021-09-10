@@ -85,3 +85,36 @@ int main()
     }
     return 0;
 }
+
+/*
+Enter n : 5
+    1    
+   212   
+  32123  
+ 4321234 
+543212345
+*/
+
+// using for loop 
+#include<iostream>
+using namespace std;
+int main()
+{
+    int z=1 ,n;
+    cout<<"Enter n : ";
+    cin>>n;
+    for(int i=1;i<=n;i++)
+    {
+        for(int j=1;j<=n-i;j++)
+        {
+            cout<<" ";
+        }
+        for(int k=z;k>=1;k--)
+        {
+            cout<<abs(k-i)+1;
+        }
+        z+=2;
+        cout<<endl;
+    }
+    return 0;
+}
