@@ -24,6 +24,6 @@ This is a repository of Data Structure and Algorithm programs!!
 |1| <a href = "https://github.com/anchalsinghrajput/Cpp/blob/main/linked%20list/1%20creating%20and%20displaying.cpp">Creating and displaying </a>| easy |
 |2| <a href = "https://github.com/anchalsinghrajput/Cpp/blob/main/linked%20list/2%20counting%20nodes.cpp">Counting nodes </a>|easy|
 |3| <a href = "https://github.com/anchalsinghrajput/Cpp/blob/main/linked%20list/3%20sum%20of%20elements.cpp"> Sum of elements</a>|easy|
-|3| <a href = "https://github.com/anchalsinghrajput/Cpp/blob/main/linked%20list/03%20inserting%20and%20deleting.c"> Insertion and deletion</a>|easy|
+|3| <a href = "https://github.com/anchalsinghrajput/Cpp/blob/main/linked%20list/03%20inserting%20and%20deleting.cpp"> Insertion and deletion</a>|easy|
 
 
