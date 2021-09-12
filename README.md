@@ -1,4 +1,4 @@
-# | | <a href =" ">   </a>| |
+[comment]: # (| | <a href =" ">   </a>| |)
 <h1>Data Structure and Algorithms using C++ </h1>
 This is a repository of Data Structure and Algorithm programs!!
 <h2>Basic Programs</h2>
