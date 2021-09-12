@@ -7,6 +7,7 @@ This is a repository of Data Structure and Algorithm programs!!
 |1| <a href ="https://github.com/anchalsinghrajput/Cpp/blob/main/coding%20ninjas/01%20sum%20and%20product.cpp">Sum and Product</a>|Easy|
 |2| <a href ="https://github.com/anchalsinghrajput/Cpp/blob/main/coding%20ninjas/02%20terms%20of%20ap%20.cpp">Terms of ap</a>|Easy|
 |3| <a href ="https://github.com/anchalsinghrajput/Cpp/blob/main/coding%20ninjas/03%20reverse%20of%20a%20number%20.cpp">Reverse of a number</a>|Easy|
+|4| <a href ="https://github.com/anchalsinghrajput/Cpp/blob/main/coding%20ninjas/04%20binary%20to%20decimal%20conversion%20.cpp">Binary to decimal conversion</a>|Easy|
 
 <h2>Pattern Programs</h2>
 
