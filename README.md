@@ -9,6 +9,7 @@ This is a repository of Data Structure and Algorithm programs!!
 |3| <a href ="https://github.com/anchalsinghrajput/Cpp/blob/main/coding%20ninjas/03%20reverse%20of%20a%20number%20.cpp">Reverse of a number</a>|Easy|
 |4| <a href ="https://github.com/anchalsinghrajput/Cpp/blob/main/coding%20ninjas/04%20binary%20to%20decimal%20conversion%20.cpp">Binary to decimal conversion</a>|Easy|
 |5| <a href ="https://github.com/anchalsinghrajput/Cpp/blob/main/coding%20ninjas/05%20decimal%20to%20binary%20conversion%20.cpp">Decimal to binary conversion </a>|Easy|
+|5| <a href ="https://github.com/anchalsinghrajput/Cpp/blob/main/coding%20ninjas/06%20Square%20root(integral)%20.cpp">Square root (integral)</a>|Easy|
 
 <h2>Pattern Programs</h2>
 
