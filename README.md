@@ -19,8 +19,8 @@ This is a repository of Data Structure and Algorithm programs!!
 |1| <a href ="https://github.com/anchalsinghrajput/Cpp/blob/main/patterns/simple%20pattern.cpp">Simple patterns</a>|Very easy|
 |2| <a href ="https://github.com/anchalsinghrajput/Cpp/blob/main/patterns/2%20Hollow%20rectangle%20pattern.cpp">Hollow rectangle patterns</a>|Easy|
 |3| <a href ="https://github.com/anchalsinghrajput/Cpp/blob/main/patterns/01%20triangle%20number%20pattern%20.cpp">Triangle number patterns</a>|Intermediate|
-|4| <a href ="https://github.com/anchalsinghrajput/Cpp/blob/main/patterns/3%20half%20pyramid%20patterns.cpp">Half pyramid patter </a>|Easy|
-  
+|4| <a href ="https://github.com/anchalsinghrajput/Cpp/blob/main/patterns/3%20half%20pyramid%20patterns.cpp">Half pyramid patterns </a>|Easy|
+|5 | <a href ="https://github.com/anchalsinghrajput/Cpp/blob/main/patterns/02%20number%20and%20star%20.cpp ">Number and star pattern </a>|intermediate |  
 <h2>Linked list </h2>
 
 |Index| Program|Difficulty|
