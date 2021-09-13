@@ -12,7 +12,7 @@ This is a repository of Data Structure and Algorithm programs!!
 |5| <a href ="https://github.com/anchalsinghrajput/Cpp/blob/main/coding%20ninjas/05%20decimal%20to%20binary%20conversion%20.cpp">Decimal to binary conversion </a>|Easy|
 |6| <a href ="https://github.com/anchalsinghrajput/Cpp/blob/main/coding%20ninjas/06%20Square%20root(integral)%20.cpp">Square root (integral)</a>|Easy|
 |7| <a href ="https://github.com/anchalsinghrajput/Cpp/blob/main/coding%20ninjas/07%20check%20number%20sequence%20.cpp "> Check number sequence  </a>|Intermediate |
-|8 | <a href =" https://github.com/anchalsinghrajput/Cpp/blob/main/coding%20ninjas/08%20nCr%20.cpp"> nCr  </a>|Easy |
+|8| <a href =" https://github.com/anchalsinghrajput/Cpp/blob/main/coding%20ninjas/08%20nCr%20.cpp"> nCr  </a>|Easy |
 <h2>Pattern Programs</h2>
 
 |Index| Program|Difficulty|
