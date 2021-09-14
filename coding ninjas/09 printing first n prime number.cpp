@@ -21,7 +21,7 @@ int main()
     cin>>n;
     int i,k;
 
-    for(i=1,k=1;k<=n;i++)
+    for(i=2,k=1;k<=n;i++)
     {
         if(isPrime(i))
         {
