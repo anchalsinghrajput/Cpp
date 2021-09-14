@@ -13,6 +13,7 @@ This is a repository of Data Structure and Algorithm programs!!
 |6| <a href ="https://github.com/anchalsinghrajput/Cpp/blob/main/coding%20ninjas/06%20Square%20root(integral)%20.cpp">Square root (integral)</a>|Easy|
 |7| <a href ="https://github.com/anchalsinghrajput/Cpp/blob/main/coding%20ninjas/07%20check%20number%20sequence%20.cpp "> Check number sequence  </a>|Intermediate |
 |8| <a href ="https://github.com/anchalsinghrajput/Cpp/blob/main/coding%20ninjas/08%20nCr%20.cpp"> nCr  </a>|Easy |
+|9| <a href ="https://github.com/anchalsinghrajput/Cpp/blob/main/coding%20ninjas/09%20printing%20first%20n%20prime%20number.cpp">Printing first n prime number</a>|Easy |
 <h2>Pattern Programs</h2>
 
 |Index| Program|Difficulty|
@@ -22,6 +23,14 @@ This is a repository of Data Structure and Algorithm programs!!
 |3| <a href ="https://github.com/anchalsinghrajput/Cpp/blob/main/patterns/01%20triangle%20number%20pattern%20.cpp">Triangle number patterns</a>|Intermediate|
 |4| <a href ="https://github.com/anchalsinghrajput/Cpp/blob/main/patterns/3%20half%20pyramid%20patterns.cpp">Half pyramid patterns </a>|Easy|
 |5 | <a href ="https://github.com/anchalsinghrajput/Cpp/blob/main/patterns/02%20number%20and%20star%20.cpp ">Number and star patterns </a>|Intermediate |  
+<h2>Array </h2>
+
+|Index| Program|Difficulty|
+|:-----|:------:|---------:|
+| 1| <a href ="https://github.com/anchalsinghrajput/Cpp/blob/main/coding%20ninjas/10%20Array%20sum%20.cpp"> Array sum  </a>|Easy |
+| 2| <a href ="https://github.com/anchalsinghrajput/Cpp/blob/main/coding%20ninjas/11%20Linear%20search%20.cpp">Linear search </a>|Easy |
+| 3| <a href ="https://github.com/anchalsinghrajput/Cpp/blob/main/coding%20ninjas/12%20Arranging%20array%20.cpp">Arranging array</a>|Easy |
+
 <h2>Linked list </h2>
 
 |Index| Program|Difficulty|
