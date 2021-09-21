@@ -28,16 +28,23 @@ This is a repository of Data Structure and Algorithm programs!!
 |Index| Program|Difficulty|
 |:-----|:------:|---------:|
 | 1| <a href ="https://github.com/anchalsinghrajput/Cpp/blob/main/coding%20ninjas/10%20Array%20sum%20.cpp"> Array sum  </a>|Easy |
-| 2| <a href ="https://github.com/anchalsinghrajput/Cpp/blob/main/coding%20ninjas/11%20Linear%20search%20.cpp">Linear search </a>|Easy |
 | 3| <a href ="https://github.com/anchalsinghrajput/Cpp/blob/main/coding%20ninjas/12%20Arranging%20array%20.cpp">Arranging array</a>|Easy |
+
+<h2>Searching and sorting </h2>
+
+|Index| Program|Difficulty|
+|:-----|:------:|---------:|
+|1| <a href ="https://github.com/anchalsinghrajput/Cpp/blob/main/coding%20ninjas/11%20Linear%20search%20.cpp">Linear search </a>|Easy |
+|2| <a href ="https://github.com/anchalsinghrajput/Cpp/blob/main/coding%20ninjas/14%20Selection%20sort.cpp">Selection sort </a>|Easy|
+|3| <a href ="https://github.com/anchalsinghrajput/Cpp/blob/main/coding%20ninjas/13%20merge%20two%20array%20.cpp">Merge two array in sorted order</a>|Easy|
 
 <h2>Linked list </h2>
 
 |Index| Program|Difficulty|
 |:-----|:------:|---------:|
-|1| <a href = "https://github.com/anchalsinghrajput/Cpp/blob/main/linked%20list/1%20creating%20and%20displaying.cpp">Creating and displaying </a>| easy |
-|2| <a href = "https://github.com/anchalsinghrajput/Cpp/blob/main/linked%20list/2%20counting%20nodes.cpp">Counting nodes </a>|easy|
-|3| <a href = "https://github.com/anchalsinghrajput/Cpp/blob/main/linked%20list/3%20sum%20of%20elements.cpp"> Sum of elements</a>|easy|
-|4| <a href = "https://github.com/anchalsinghrajput/Cpp/blob/main/linked%20list/03%20inserting%20and%20deleting.cpp"> Insertion and deletion</a>|easy|
+|1| <a href = "https://github.com/anchalsinghrajput/Cpp/blob/main/linked%20list/1%20creating%20and%20displaying.cpp">Creating and displaying </a>| Easy |
+|2| <a href = "https://github.com/anchalsinghrajput/Cpp/blob/main/linked%20list/2%20counting%20nodes.cpp">Counting nodes </a>|Easy|
+|3| <a href = "https://github.com/anchalsinghrajput/Cpp/blob/main/linked%20list/3%20sum%20of%20elements.cpp"> Sum of elements</a>|Easy|
+|4| <a href = "https://github.com/anchalsinghrajput/Cpp/blob/main/linked%20list/03%20inserting%20and%20deleting.cpp"> Insertion and deletion</a>|Easy|
 
 
