@@ -35,8 +35,10 @@ This is a repository of Data Structure and Algorithm programs!!
 |Index| Program|Difficulty|
 |:-----|:------:|---------:|
 |1| <a href ="https://github.com/anchalsinghrajput/Cpp/blob/main/coding%20ninjas/11%20Linear%20search%20.cpp">Linear search </a>|Easy |
-|2| <a href ="https://github.com/anchalsinghrajput/Cpp/blob/main/coding%20ninjas/14%20Selection%20sort.cpp">Selection sort </a>|Easy|
-|3| <a href ="https://github.com/anchalsinghrajput/Cpp/blob/main/coding%20ninjas/13%20merge%20two%20array%20.cpp">Merge two array in sorted order</a>|Easy|
+|2| <a href ="https://github.com/anchalsinghrajput/Cpp/blob/main/coding%20ninjas/15%20bubble%20sort%20.cpp">Bubble sort </a>|Easy |
+|3| <a href ="https://github.com/anchalsinghrajput/Cpp/blob/main/coding%20ninjas/14%20Selection%20sort.cpp">Selection sort </a>|Easy|
+|4| <a href ="https://github.com/anchalsinghrajput/Cpp/blob/main/coding%20ninjas/13%20merge%20two%20array%20.cpp">Merge two array in sorted order</a>|Easy|
+
 
 <h2>Linked list </h2>
 
