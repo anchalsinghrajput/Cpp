@@ -1,4 +1,4 @@
-[comment]: # (| | <a href =" ">   </a>| |)
+[comment]: # (|| <a href = ""> </a>||)
 <h1>Data Structure and Algorithms using C++ </h1>
 This is a repository of Data Structure and Algorithm programs!!
 <h2>Basic Programs</h2>
@@ -27,8 +27,11 @@ This is a repository of Data Structure and Algorithm programs!!
 
 |Index| Program|Difficulty|
 |:-----|:------:|---------:|
-| 1| <a href ="https://github.com/anchalsinghrajput/Cpp/blob/main/coding%20ninjas/10%20Array%20sum%20.cpp"> Array sum  </a>|Easy |
-| 3| <a href ="https://github.com/anchalsinghrajput/Cpp/blob/main/coding%20ninjas/12%20Arranging%20array%20.cpp">Arranging array</a>|Easy |
+|1| <a href ="https://github.com/anchalsinghrajput/Cpp/blob/main/coding%20ninjas/10%20Array%20sum%20.cpp"> Array sum  </a>|Easy |
+|2| <a href ="https://github.com/anchalsinghrajput/Cpp/blob/main/coding%20ninjas/12%20Arranging%20array%20.cpp">Arranging array</a>|Easy |
+|3| <a href ="https://github.com/anchalsinghrajput/Cpp/blob/main/coding%20ninjas/16%20%20printing%20all%20substrings.cpp"> Printing all subscripts </a>|Intermediate|
+|4| <a href ="https://github.com/anchalsinghrajput/Cpp/blob/main/coding%20ninjas/21%20pair%20sum%20count%20.cpp">Pair sum</a>|Easy |
+|5| <a href ="https://github.com/anchalsinghrajput/Cpp/blob/main/coding%20ninjas/20%20triplet%20sum%20count.cpp">Triplet sum</a>|Easy|
 
 <h2>Searching and sorting </h2>
 
@@ -38,6 +41,9 @@ This is a repository of Data Structure and Algorithm programs!!
 |2| <a href ="https://github.com/anchalsinghrajput/Cpp/blob/main/coding%20ninjas/15%20bubble%20sort%20.cpp">Bubble sort </a>|Easy |
 |3| <a href ="https://github.com/anchalsinghrajput/Cpp/blob/main/coding%20ninjas/14%20Selection%20sort.cpp">Selection sort </a>|Easy|
 |4| <a href ="https://github.com/anchalsinghrajput/Cpp/blob/main/coding%20ninjas/13%20merge%20two%20array%20.cpp">Merge two array in sorted order</a>|Easy|
+|5| <a href ="https://github.com/anchalsinghrajput/Cpp/blob/main/coding%20ninjas/19%20array%20intersection%20.cpp">Array intersection</a>|Easy|
+|6| <a href ="https://github.com/anchalsinghrajput/Cpp/blob/main/coding%20ninjas/18%20find%20duplicate%20.cpp"> Find duplicate</a>|Easy|
+|7| <a href ="https://github.com/anchalsinghrajput/Cpp/blob/main/coding%20ninjas/17%20find%20unique%20.cpp">Find unique </a>|Easy|
 
 
 <h2>Linked list </h2>
