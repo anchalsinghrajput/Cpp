@@ -1,4 +1,4 @@
-[comment]: # (|| <a href = ""> </a>||)
+[comment]: # (|| <a href =""> </a>||)
 <h1>Data Structure and Algorithms using C++ </h1>
 This is a repository of Data Structure and Algorithm programs!!
 <h2>Basic Programs</h2>
@@ -29,7 +29,7 @@ This is a repository of Data Structure and Algorithm programs!!
 |:-----|:------:|---------:|
 |1| <a href ="https://github.com/anchalsinghrajput/Cpp/blob/main/coding%20ninjas/10%20Array%20sum%20.cpp"> Array sum  </a>|Easy |
 |2| <a href ="https://github.com/anchalsinghrajput/Cpp/blob/main/coding%20ninjas/12%20Arranging%20array%20.cpp">Arranging array</a>|Easy |
-|3| <a href ="https://github.com/anchalsinghrajput/Cpp/blob/main/coding%20ninjas/16%20%20printing%20all%20substrings.cpp"> Printing all subscripts </a>|Intermediate|
+|3| <a href ="https://github.com/anchalsinghrajput/Cpp/blob/main/coding%20ninjas/16%20%20printing%20all%20substrings.cpp"> Printing all substrings </a>|Intermediate|
 |4| <a href ="https://github.com/anchalsinghrajput/Cpp/blob/main/coding%20ninjas/21%20pair%20sum%20count%20.cpp">Pair sum</a>|Easy |
 |5| <a href ="https://github.com/anchalsinghrajput/Cpp/blob/main/coding%20ninjas/20%20triplet%20sum%20count.cpp">Triplet sum</a>|Easy|
 
