@@ -33,6 +33,13 @@ This is a repository of Data Structure and Algorithm programs!!
 |4| <a href ="https://github.com/anchalsinghrajput/Cpp/blob/main/coding%20ninjas/21%20pair%20sum%20count%20.cpp">Pair sum</a>|Easy |
 |5| <a href ="https://github.com/anchalsinghrajput/Cpp/blob/main/coding%20ninjas/20%20triplet%20sum%20count.cpp">Triplet sum</a>|Easy|
 
+<h2>2D array </h2>
+
+|Index| Program|Difficulty|
+|:-----|:------:|---------:|
+|1| <a href ="https://github.com/anchalsinghrajput/Cpp/blob/main/coding%20ninjas/22%20%20Largest%20Row%20or%20Column%20.cpp">Largest sum of row and column </a>|Intermediate|
+|2| <a href ="https://github.com/anchalsinghrajput/Cpp/blob/main/coding%20ninjas/23%20wave%20print%20.cpp"> Wave print</a>|Intermediate|
+
 <h2>Searching and sorting </h2>
 
 |Index| Program|Difficulty|
