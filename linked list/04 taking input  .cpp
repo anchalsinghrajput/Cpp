@@ -30,7 +30,7 @@ node* takeInput()
         else
         {
             tail->next=newNode;
-            tail=newNode;
+            tail=newNode;                      // (or) tail=tail->next;
         }
         cin>>data;
     }
